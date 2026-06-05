@@ -81,7 +81,7 @@ export default function LandingPage() {
           href: "#features",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/abstract-low-poly-background-with-connecting-dots-lines_1048-5910.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/abstract-low-poly-background-with-connecting-dots-lines_1048-5910.jpg?_wi=1"
       imageAlt="Thunder AI Platform Hero Image"
       mediaAnimation="slide-up"
     />
@@ -92,7 +92,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="ما هي منصة Thunder؟"
       description="Thunder هي بوابتك الشاملة لمستقبل الابتكار الرقمي. تجمع منصتنا بين قوة الذكاء الاصطناعي المتطور ومجموعة واسعة من الأدوات الاحترافية، لتمكين الأفراد والشركات من إنشاء المواقع والتطبيقات، تحليل البيانات، وإنشاء المحتوى بسهولة وفعالية لا مثيل لها. تصميمنا يركز على السرعة، الأمان، وتجربة مستخدم فاخرة."
-      imageSrc="http://img.b2bpic.net/free-photo/ui-ux-representations-with-tablet_23-2150201863.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/ui-ux-representations-with-tablet_23-2150201863.jpg?_wi=1"
       imageAlt="AI, Web, and App Development Integration"
     />
   </div>
@@ -150,7 +150,7 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-low-poly-background-with-connecting-dots-lines_1048-5910.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-low-poly-background-with-connecting-dots-lines_1048-5910.jpg?_wi=2",
           imageAlt: "ai assistant concept blue purple",
         },
         {
@@ -175,7 +175,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/ui-ux-representations-with-tablet_23-2150201863.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ui-ux-representations-with-tablet_23-2150201863.jpg?_wi=2",
           imageAlt: "ai assistant concept blue purple",
         },
         {
@@ -200,7 +200,7 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/oman-eye-bondage-lying-floor_23-2147695046.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/oman-eye-bondage-lying-floor_23-2147695046.jpg?_wi=1",
           imageAlt: "ai assistant concept blue purple",
         },
       ]}
@@ -221,7 +221,7 @@ export default function LandingPage() {
           name: "أدوات الصور",
           price: "مجاناً",
           variant: "ضغط، إزالة الخلفية، تحويل",
-          imageSrc: "http://img.b2bpic.net/free-photo/oman-eye-bondage-lying-floor_23-2147695046.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/oman-eye-bondage-lying-floor_23-2147695046.jpg?_wi=2",
           imageAlt: "Image Tools Icon",
         },
         {
